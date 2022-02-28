@@ -1,0 +1,3 @@
+-The site will not work completely if there is an antivirus on the computer.
+- You need to update the email link for the raider on line 174 of checkout.php
+-The rider's emails work on the PC for the delivery page as the site has not been published on the network
