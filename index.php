@@ -176,7 +176,7 @@
                     </div>
                     <div class="col">
                         <div class="card h-100 border-0">
-                            <a href="pagine/menu.php?tipo=Primo"><img src="img/piatti/trofiealpestoconpatateefagiolini.jpg" class="card-img-top" alt="primi" height="209"></a>
+                            <a href="pagine/menu.php?tipo=Primo"><img src="img/piatti/trofiealpesto.jpg" class="card-img-top" alt="primi" height="209"></a>
                             <div class="card-body">
                                 <h5 class="card-title" style="color:orange;">Primi</h5>
                             </div>
@@ -200,7 +200,7 @@
                     </div>   
                     <div class="col">
                         <div class="card h-100 border-0">
-                            <a href="pagine/menu.php?tipo=Dolce"><img src="img/piatti/pandolce.jpg" class="card-img-top" alt="dolci" height="209"></a>
+                            <a href="pagine/menu.php?tipo=Dolce"><img src="img/piatti/pandolcegenovese.jpg" class="card-img-top" alt="dolci" height="209"></a>
                             <div class="card-body">
                                 <h5 class="card-title" style="color:#59A0F8;">Dolci</h5>
                             </div>
