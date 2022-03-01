@@ -282,7 +282,7 @@
                                 </div>
                                 <div class="row">
                                     <div class="form-group col-md-4 pb-2">
-                                        <input type="text" class="form-control" pattern="[0-9]+" name="nCarta" placeholder="Numero cartaCredito" required>
+                                        <input type="text" class="form-control" pattern="[0-9]+" name="nCarta" placeholder="Numero cartaCredito" minlenght="13" maxlenght="16" required>
                                       </div>
                                     <div class="form-group col-md-4 pb-2">
                                         <input type="month" class="form-control" name="scadenza" placeholder="Data di scadenza della carta" required>
